@@ -10,11 +10,9 @@ perform CRUD operations on a student database using the WampServer64 for SQL ser
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/) is a micro web framework written in Python. It is classified as a
   microframework because it does not require particular tools or libraries. It has no database abstraction layer, form
   validation, or any other components where pre-existing third-party libraries provide common functions.
-* [SQL](https://www.w3schools.com/sql/) (Structured Query Language) is a standard language for storing, manipulating and
-  retrieving data in
-  databases. SQL is used to query a database, to insert records in a database, to update records in a database, to
-  delete records from a database, to create new databases and new tables in a database, to create stored procedures in a
-  database, to create views in a database, to set permissions on tables, procedures, and views, and so on.
+* [MYSQL](https://www.mysql.com/) is an open-source relational database management system (RDBMS). Its name is a
+  combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured
+  Query Language.
 * [Bootstrap](https://getbootstrap.com/) is a free and open-source CSS framework directed at responsive, mobile-first
   front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons,
   navigation, and other interface components.
@@ -65,7 +63,7 @@ purposes.
 
 ## Built With:
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/) - The web framework used
-* [SQL](https://www.w3schools.com/sql/) - Database
+* [MYSQL](https://www.mysql.com/)- Database
 * [Bootstrap](https://getbootstrap.com/) - Styling
 * [WampServer64](https://www.wampserver.com/en/) - SQL server
 * [Pycharm Community](https://www.jetbrains.com/pycharm/download/#section=windows) - IDE
